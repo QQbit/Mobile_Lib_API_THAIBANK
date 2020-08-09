@@ -1,0 +1,1 @@
+QRcode_Base64FromServer
